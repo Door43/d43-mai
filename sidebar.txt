@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mai:home|Door43 (mai)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mai|d43-mai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mai/archive/master.zip|d43-mai.zip]]
+
+**Recent Changes**
+{{changes>ns = mai}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mai|Ethnologue data]]
+
